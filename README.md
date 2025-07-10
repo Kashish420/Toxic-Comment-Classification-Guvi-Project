@@ -21,8 +21,7 @@ This project explores customer behavior using a combination of data preprocessin
 
 #### Author
 
-Prithviraj Dwivedy
-B.Tech CSE, BML Munjal University
+Kashish Kumar
 Project submitted for IIT Madras Data Science coursework
 
 ---
